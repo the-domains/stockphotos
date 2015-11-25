@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[StockPhotos]]></title>
+        <description><![CDATA[StockPhotos]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 25 Nov 2015 04:22:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This is a Test]]></title>
+            <description><![CDATA[<article><h1>This is a Test</h1><p>No images in this post. We'll see if this one processes successfully. Not having much luck even with small images so far. Text seems to be okay though. It'd be nice if we could use images though.</p></article>]]></description>
+            <link>undefinedthis-is-a-test/index.html</link>
+            <guid isPermaLink="false">2733d6bd-387a-42f9-bb75-04a7815175d4</guid>
+            <pubDate>Wed, 25 Nov 2015 04:22:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
