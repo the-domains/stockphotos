@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[StockPhotos]]></title>
         <description><![CDATA[StockPhotos]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/stockphotos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 04:22:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 25 Nov 2015 04:22:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/stockphotos/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Stock Photos]]></title>
+            <description><![CDATA[<article><h1>Stock Photos</h1><p>Angry Ocean | Na Pali Coast | Kauai | Hawaii</p></article>]]></description>
+            <link>https://thegrid.ai/stockphotos/stock-photos/index.html</link>
+            <guid isPermaLink="false">1d547913-1ea4-4043-a01a-13aeab7c885a</guid>
+            <pubDate>Wed, 25 Nov 2015 04:22:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This is a Test]]></title>
             <description><![CDATA[<article><h1>This is a Test</h1><p>No images in this post. We'll see if this one processes successfully. Not having much luck even with small images so far. Text seems to be okay though. It'd be nice if we could use images though.</p></article>]]></description>
-            <link>undefinedthis-is-a-test/index.html</link>
+            <link>https://thegrid.ai/stockphotos/this-is-a-test/index.html</link>
             <guid isPermaLink="false">2733d6bd-387a-42f9-bb75-04a7815175d4</guid>
             <pubDate>Wed, 25 Nov 2015 04:22:33 GMT</pubDate>
         </item>
