@@ -4,7 +4,7 @@
         <description><![CDATA[StockPhotos]]></description>
         <link>https://thegrid.ai/stockphotos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 04:30:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 04:33:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/stockphotos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Stock Photos]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/stockphotos/clouds-roll-in/index.html</link>
             <guid isPermaLink="false">cf328922-754b-40c1-8de0-a986a4d0a569</guid>
             <pubDate>Wed, 25 Nov 2015 04:30:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This is a Test]]></title>
-            <description><![CDATA[<article><h1>This is a Test</h1><p>No images in this post. We'll see if this one processes successfully. Not having much luck even with small images so far. Text seems to be okay though. It'd be nice if we could use images though.</p></article>]]></description>
-            <link>https://thegrid.ai/stockphotos/this-is-a-test/index.html</link>
-            <guid isPermaLink="false">2733d6bd-387a-42f9-bb75-04a7815175d4</guid>
-            <pubDate>Wed, 25 Nov 2015 04:22:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
