@@ -1,7 +1,7 @@
 name: StockPhotos
 favicon: null
-layout_spectrum: 0.0013130761217325926
-typography_spectrum: 0.16849512187764049
+layout_spectrum: 0
+typography_spectrum: 0.22833
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.9368593993131071
-  lightness: 0.5239019740838557
-  saturation: 0.06290433718822896
-  rhythmicContrast: 0.38828558358363807
+  brandStrength: 0.1875
+  lightness: 0.5625
+  saturation: 0.625
+  rhythmicContrast: 0.25
 purpose: []
