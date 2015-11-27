@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: A unique gallery of premium stock photos unlike those found in other online repositories.
-datePublished: '2015-11-27T07:37:31.227Z'
-dateModified: '2015-11-27T07:37:29.418Z'
+datePublished: '2015-11-27T07:38:14.425Z'
+dateModified: '2015-11-27T07:38:12.488Z'
 title: Stock Photos
 author: []
 sourcePath: _posts/2015-11-25-stock-photos.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: stock-photos/index.html
-_type: WebPage
+_type: Article
 
 ---
 # Stock Photos
