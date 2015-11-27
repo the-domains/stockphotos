@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-27T07:21:05.932Z'
-dateModified: '2015-11-27T07:20:54.930Z'
+datePublished: '2015-11-27T07:39:57.267Z'
+dateModified: '2015-11-27T07:39:54.206Z'
 title: deep in the forest
 author: []
 sourcePath: _posts/2015-11-27-deep-in-the-forest.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: deep-in-the-forest/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16b2f0e4-593b-4fa5-ab2f-83b7a29374dd.JPG)
