@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Clouds rolling over mountains and Kukuiula Golf Course in Poipu
-datePublished: '2015-11-25T04:30:05.508Z'
-dateModified: '2015-11-25T04:29:13.392Z'
+datePublished: '2015-11-27T07:42:16.991Z'
+dateModified: '2015-11-27T07:42:07.179Z'
 title: Clouds Roll In
 author: []
+sourcePath: _posts/2015-11-25-clouds-roll-in.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-25-clouds-roll-in.md
-published: true
 url: clouds-roll-in/index.html
 _type: Article
 
