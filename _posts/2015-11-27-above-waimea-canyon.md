@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-27T07:42:33.458Z'
-dateModified: '2015-11-27T07:38:32.063Z'
+datePublished: '2015-11-27T07:45:51.337Z'
+dateModified: '2015-11-27T07:45:46.801Z'
 title: above Waimea Canyon
 author: []
 sourcePath: _posts/2015-11-27-above-waimea-canyon.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: above-waimea-canyon/index.html
-_type: WebPage
+_type: Article
 
 ---
 # above Waimea Canyon
